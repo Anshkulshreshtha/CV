@@ -1,0 +1,27 @@
+body{
+  background-color:  burlywood;
+    }
+    a:hover {
+  background-color: gold;
+}
+img:Hover
+{background-color: grey;}
+    h1{
+       color: purple;
+      }
+      h3{
+        color:maroon;
+      }
+
+       hr{
+         background-color:none;
+         border-style:none;
+         border-top-style: dotted;
+         border-color: grey;
+         border-width: 5px;
+         height: opx;
+         width: 30%;
+       }
+       .CIRCULAR{
+         border-radius: 500PX;
+       }
